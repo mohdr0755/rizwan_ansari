@@ -1,7 +1,7 @@
 ![logo](https://github.com/mohdr0755/rizwan_ansari/blob/main/bnner.jpg)
 <h1 align="center">Hi 👋, I'm Rizwan Ansari</h1>
 <h3 align="center">A passionate data scientist from India</h3>
-<img align = "right", alt="AI",width=400px, scr="https://i.pinimg.com/originals/8a/08/32/8a0832c65e2c644302c106d5157b48a9.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdr0755&label=Profile%20views&color=0e75b6&style=flat" alt="mohdr0755" /> </p>
 
